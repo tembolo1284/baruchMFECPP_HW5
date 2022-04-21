@@ -1,0 +1,3 @@
+﻿  Test.cpp
+C:\Users\niklo\OneDrive\Desktop\CPP-Workspace\HWsLevel5Baruch\exercise3_6_1\Test.cpp(11,34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  exercise3_6_1.vcxproj -> C:\Users\niklo\OneDrive\Desktop\CPP-Workspace\HWsLevel5Baruch\exercise3_6_1\x64\Debug\exercise3_6_1.exe
